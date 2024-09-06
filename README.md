@@ -1,0 +1,1 @@
+# DetaleFunctions_module_3
